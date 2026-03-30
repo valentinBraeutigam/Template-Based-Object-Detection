@@ -1,5 +1,5 @@
 # Template-based Object Detection Using a Foundation Model
-
+The Code accompanies the paper [Template-based Object Detection Using a Foundation Model](https://arxiv.org/abs/2603.19773).
 # Installation
 
 Please make sure to have conda or miniconda on your machine. Check in the script if the path to your conda installation matches the default path, otherwise adjust it to your conda path. 
